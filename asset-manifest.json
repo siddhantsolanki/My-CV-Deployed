@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.541d5cdd.chunk.css",
+    "main.js": "/static/js/main.55b835ed.chunk.js",
+    "main.js.map": "/static/js/main.55b835ed.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0aa2b936.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0aa2b936.js.map",
+    "static/js/2.37d228ed.chunk.js": "/static/js/2.37d228ed.chunk.js",
+    "static/js/2.37d228ed.chunk.js.map": "/static/js/2.37d228ed.chunk.js.map",
+    "static/js/3.ab022641.chunk.js": "/static/js/3.ab022641.chunk.js",
+    "static/js/3.ab022641.chunk.js.map": "/static/js/3.ab022641.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.541d5cdd.chunk.css.map": "/static/css/main.541d5cdd.chunk.css.map",
+    "static/js/2.37d228ed.chunk.js.LICENSE.txt": "/static/js/2.37d228ed.chunk.js.LICENSE.txt",
+    "static/media/Solar_panel.5fcd5ae5.png": "/static/media/Solar_panel.5fcd5ae5.png",
+    "static/media/sidicon.db735741.png": "/static/media/sidicon.db735741.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0aa2b936.js",
+    "static/js/2.37d228ed.chunk.js",
+    "static/css/main.541d5cdd.chunk.css",
+    "static/js/main.55b835ed.chunk.js"
+  ]
+}
